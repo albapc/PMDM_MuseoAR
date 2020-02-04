@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-28T19:59:08Z" name="car" targetId="5da10b0b232b411bbe4ae851edd87f58" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-27T18:43:33Z" name="seta" targetId="c452bb27c12e4de19cf20d855e0f6237" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-27T19:30:10Z" name="pastillero" targetId="65b61f67f2e144eaa0afd5d7e9ce63e8" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-27T18:52:48Z" name="doll" targetId="10dc18283e524d3e983463771b6d4811" version="2.0" />
+  </TargetSet>
+</QCARInfo>
